@@ -1,0 +1,9 @@
+{
+  "name": "practice-password-validator",
+  "version": "1.0.0",
+  "description": "A simple password validator using loops",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
